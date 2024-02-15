@@ -30,7 +30,7 @@ Here are all of the custom inserts available printed in various colour combinati
 # ✨ Thanks
 This project started by the realisation of how expensive some of the offers for S10 Lens Caps are online where most of them are 3D Printed and fitted with an acrylic disc and window tint.
 
-Thanks to the help of Gearlicious and Skeele, and some extra suggestion from [Hex](https://linktr.ee/puphex), I created a CAD file and then went crazy with modularity!
+Thanks to the help of [Gearlicious](https://www.gearlicious.one/) and [Skeele](#) who both provided lens caps models I reproduced and edited here, and some extra suggestion from [Hex](https://linktr.ee/puphex) for the use of magnets, I created a CAD file and then went crazy with modularity!
 
 It all for fun, kink gear is already pretty expensive, so hopefully that can complet your look 😁
 

@@ -8,8 +8,10 @@ A collection of 3D printable files to create Lens caps with interchangable inser
 # How to build
 - Print 2 of the Bottom, Top and the Insert of your choice
   - Print Settings: No support, 0.2mm layer height, 15% Infill (Basically the default setting is just fine and good looking 😊)
-- If you chose the Magnet version, you'll need to fit 3 small 5*2mm magnets to both the insert and top (make sure to check the orientation)
+- If you chose the Magnet version, you'll need to fit **3 small 5*2mm magnets to both the insert and top** (make sure to check the orientation)
 - Glue the Bottom and Top part together using the pegs as a guide
+
+The S10 Cap can fit **90mm wide 3mm thick discs either 3D printed or bought and cut to size**
 
 And you're good to go ✨
 

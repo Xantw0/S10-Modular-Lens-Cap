@@ -25,7 +25,11 @@ Custom text or Icon, or simply one of the existing design, I offer them for the 
 </p>
 
 # 🎨 Custom Inserts
-Here are all of the custom inserts available printed in various colour combinations. 
+Here are some of the custom inserts available printed in various colour combinations.
+<p align="center"> 
+<img src="images/customs.jpg"> 
+</p>
+Note: The last one is a plain insert with the google eye glues on it 😁
 
 # ✨ Thanks
 This project started by the realisation of how expensive some of the offers for S10 Lens Caps are online where most of them are 3D Printed and fitted with an acrylic disc and window tint.
